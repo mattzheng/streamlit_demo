@@ -324,7 +324,7 @@ https://docs.streamlit.io/en/stable/api.html#display-media
 
 """
 
-filepath = 'C:\\Users\\YZHENG\\Desktop\\research\\77 github\\streamlit-develop\\demo/'
+filepath = 'demo/'
 
 """ 4.1 展示图片  """
 from PIL import Image
