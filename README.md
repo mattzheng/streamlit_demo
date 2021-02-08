@@ -14,6 +14,29 @@ streamlit一些样例
 
 - 20210208 上传`demo2-opencv+yolov3`文件夹
 
+
+---
+
+## `demo1-uber-pickups`
+
+在本教程中，您将使用Streamlit的核心功能来创建一个交互式应用程序;探索纽约市打车软件优步的公共接送数据集。
+
+完成后，您将知道如何获取和缓存数据、绘制图表、在地图上绘制信息，并使用交互式小部件(如滑块)来过滤结果。
+
+---
+
+## `demo2-opencv+yolov3`
+
+原案例中无法自己上传本地图片进行检测,事先提供好了图片url连接（标记了所有图像Ground Truth的[原标签数据集](https://streamlit-self-driving.s3-us-west-2.amazonaws.com/labels.csv.gz)），
+
+直接download使用，所以不太满足要求  。
+
+
+![av_final_optimized](https://raw.githubusercontent.com/streamlit/demo-self-driving/master/av_final_optimized.gif)
+
+
+
+
 ---
 
 
