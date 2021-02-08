@@ -34,11 +34,15 @@ streamlit一些样例
 
 原案例中无法自己上传本地图片进行检测,事先提供好了图片url连接（标记了所有图像Ground Truth的[原标签数据集](https://streamlit-self-driving.s3-us-west-2.amazonaws.com/labels.csv.gz)），
 
-直接download使用，所以不太满足要求  。
+直接download使用，所以不太满足要求  。原来的界面如下：
 
 
 ![av_final_optimized](https://raw.githubusercontent.com/streamlit/demo-self-driving/master/av_final_optimized.gif)
 
+
+现在的界面如下：
+![opencv](https://img-blog.csdnimg.cn/20210208161448931.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzI2OTE3Mzgz,size_16,color_FFFFFF,t_70
+)
 
 
 
