@@ -92,3 +92,5 @@ github代码链接：[mattzheng/streamlit_demo](https://github.com/mattzheng/str
 
 - [使用Streamlit-Agraph构建知识图谱](https://mp.weixin.qq.com/s/_s6A5-rSWJju5kQ9r4MRnw)
 
+- [Python开发NLP应用新思路：Streamlit与FastAPI双剑合璧 ](https://mp.weixin.qq.com/s/Nv3z0SUHb1SckGFe4OLsmg)
+
