@@ -1,11 +1,16 @@
 # streamlit_demo
-streamlit一些样例
+
+streamlit一些样例以及相关的博文
 
 其中文件夹：
 
 - `demo`文件夹是常规的练习代码
 
 - `demo1-uber-pickups`是数据探索的一个案例，博客：https://mattzheng.blog.csdn.net/article/details/113531457
+
+- `demo2-opencv+yolov3`是利用Opencv进行图像目标检测的案例
+
+- `demo3-interactive_datetime_filter`是时间数据拖拽式展示的案例
 
 
 更新日志：
@@ -85,4 +90,5 @@ github代码链接：[mattzheng/streamlit_demo](https://github.com/mattzheng/str
 
 - [在Streamlit中设置背景图片和动图](https://mp.weixin.qq.com/s/JanyRPu43Yqi32sSO6oZRQ)
 
+- [使用Streamlit-Agraph构建知识图谱](https://mp.weixin.qq.com/s/_s6A5-rSWJju5kQ9r4MRnw)
 
