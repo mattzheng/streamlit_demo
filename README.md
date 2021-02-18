@@ -57,26 +57,32 @@ streamlit一些样例
 
 
 
+
+
 ---
 
 
 **系列参考：**
 
-[python︱写markdown一样写网页，代码快速生成web工具：streamlit介绍（一）](https://mattzheng.blog.csdn.net/article/details/113484942)
+- [python︱写markdown一样写网页，代码快速生成web工具：streamlit介绍（一）](https://mattzheng.blog.csdn.net/article/details/113484942)
 
-[python︱写markdown一样写网页，代码快速生成web工具：streamlit 重要组件介绍（二）](https://mattzheng.blog.csdn.net/article/details/113485525)
+- [python︱写markdown一样写网页，代码快速生成web工具：streamlit 重要组件介绍（二）](https://mattzheng.blog.csdn.net/article/details/113485525)
 
-[python︱写markdown一样写网页，代码快速生成web工具：streamlit 展示组件（三）](https://mattzheng.blog.csdn.net/article/details/113486304)
+- [python︱写markdown一样写网页，代码快速生成web工具：streamlit 展示组件（三）](https://mattzheng.blog.csdn.net/article/details/113486304)
 
-[python︱写markdown一样写网页，代码快速生成web工具：streamlit lay-out布局（四）](https://mattzheng.blog.csdn.net/article/details/113530944)
+- [python︱写markdown一样写网页，代码快速生成web工具：streamlit lay-out布局（四）](https://mattzheng.blog.csdn.net/article/details/113530944)
 
-[python︱写markdown一样写网页，代码快速生成web工具：streamlit 缓存（五）](https://mattzheng.blog.csdn.net/article/details/113531087)
+- [python︱写markdown一样写网页，代码快速生成web工具：streamlit 缓存（五）](https://mattzheng.blog.csdn.net/article/details/113531087)
 
-[python︱写markdown一样写网页，代码快速生成web工具：streamlit 数据探索案例（六）](https://mattzheng.blog.csdn.net/article/details/113531457)
+- [python︱写markdown一样写网页，代码快速生成web工具：streamlit 数据探索案例（六）](https://mattzheng.blog.csdn.net/article/details/113531457)
 
-[streamlit + opencv/YOLOv3 快速构建自己的图像目标检测demo网页（七）](https://mattzheng.blog.csdn.net/article/details/113758554)
+- [streamlit + opencv/YOLOv3 快速构建自己的图像目标检测demo网页（七）](https://mattzheng.blog.csdn.net/article/details/113758554)
 
 github代码链接：[mattzheng/streamlit_demo](https://github.com/mattzheng/streamlit_demo)
 
+
+**其他关联的技术文章：**
+
+- [在Streamlit中设置背景图片和动图](https://mp.weixin.qq.com/s/JanyRPu43Yqi32sSO6oZRQ)
 
 
