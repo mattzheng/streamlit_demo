@@ -14,6 +14,7 @@ streamlit一些样例
 
 - 20210208 上传`demo2-opencv+yolov3`文件夹
 
+- 20210218 上传`demo3-interactive_datetime_filter`文件夹
 
 ---
 
@@ -43,6 +44,16 @@ streamlit一些样例
 现在的界面如下：
 ![opencv](https://img-blog.csdnimg.cn/20210208161448931.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzI2OTE3Mzgz,size_16,color_FFFFFF,t_70
 )
+
+
+---
+## `demo3-interactive_datetime_filter`
+
+该案例我还没尝试，只是挪到这里，参考的是：https://github.com/mkhorasani/interactive_datetime_filter
+
+关于他的介绍可以到该文章看一下：[用Pandas和Streamlit对时间序列数据集进行可视化过滤](https://mp.weixin.qq.com/s/TV1MJfaOq27y2DVCGMuqhA)
+
+![具体效果如下：](https://camo.githubusercontent.com/66ae4c74254d04811c253c666b43f92d739a48df607cfae0e5eb0592dc2ef70f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f312a4d585a44516861733434364e336b66425f4d615651512e676966)
 
 
 
